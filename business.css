@@ -4,6 +4,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
+   overflow-x: hidden;
 }
 header{
     background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/b5aebdc251425e8aa6997dbc/bggr.jpg);
